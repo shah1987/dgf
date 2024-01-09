@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>Default admin role</description>
+        <elevated_privilege>false</elevated_privilege>
+        <encryption_context/>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_1299929_dgf.admin</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>admin</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-09 06:58:12</sys_created_on>
+        <sys_id>7c090a3e4763f1104a6cb4b4116d43ff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1299929_dgf.admin</sys_name>
+        <sys_package display_value="DGF" source="x_1299929_dgf">30090a3e4763f1104a6cb4b4116d43fa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DGF">30090a3e4763f1104a6cb4b4116d43fa</sys_scope>
+        <sys_update_name>sys_user_role_7c090a3e4763f1104a6cb4b4116d43ff</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-09 06:58:12</sys_updated_on>
+    </sys_user_role>
+</record_update>
